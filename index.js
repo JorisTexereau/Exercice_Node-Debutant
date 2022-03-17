@@ -1,3 +1,5 @@
+const mesInfos = require("./information.js");
+
 
 var cowsay = require("cowsay");
 
